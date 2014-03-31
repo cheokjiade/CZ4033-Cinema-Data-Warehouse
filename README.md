@@ -9,7 +9,7 @@ tables.sql generates the schema and indices. It is recommended to remove the for
 
 7 tables have been manually generated and the data for them is in Insert Movie Flake.sql. The tables are Customer, Address, Cinema, Director, Star, Person, Movie.  
 
-The schema is in schema.png  
+The schema is in ![schema.png](https://raw.githubusercontent.com/cheokjiade/CZ4033-Cinema-Data-Warehouse/master/schema.png "Schema")  
 
 The remaining tables are generated via GenerateCSV.java which outputs txt files with comma separated values.
 
